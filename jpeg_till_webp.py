@@ -1,6 +1,4 @@
 """
-Masskonvertering från JPEG → WebP (snabb och parallell)
-
 
 ANVÄNDNING:
     python jpeg_till_webp.py <in-mapp> <ut-mapp> [flaggor]
